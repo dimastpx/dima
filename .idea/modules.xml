@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tgbot/.idea/tgbot.iml" filepath="$PROJECT_DIR$/../tgbot/.idea/tgbot.iml" />
     </modules>
   </component>
 </project>
